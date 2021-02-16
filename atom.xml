@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://workgroup.world/</id>
     <title>WorkGroup.World Nevigation</title>
-    <updated>2020-07-20T11:31:20.253Z</updated>
+    <updated>2021-02-16T11:31:20.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://icp.me/workgroup"/>
-    <link rel="self" href="https://icp.me/workgroup/atom.xml"/>
+    <link rel="alternate" href="https://workgroup.world/">
+    <link rel="self" href="https://workgroup.world//atom.xml"/>
     <subtitle>Wherelse的导航站</subtitle>
-    <logo>https://navigation.wherelse.cc/images/avatar.png</logo>
-    <icon>https://navigation.wherelse.cc/favicon.ico</icon>
+    <logo>https://workgroup.world/images/avatar.png</logo>
+    <icon>https://workgroup.world/favicon.ico</icon>
     <rights>All rights reserved 2020, Wherelse Nevigation</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://navigation.wherelse.cc/post/hello-gridea/</id>
-        <link href="https://navigation.wherelse.cc/post/hello-gridea/">
+        <id>https://workgroup.world/post/hello-gridea/</id>
+        <link href="https://workgroup.world/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
