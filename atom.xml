@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://icp.me/nav</id>
-    <title>Wherelse Nevigation</title>
+    <id>https://icp.me/workgroup</id>
+    <title>WorkGroup.World Nevigation</title>
     <updated>2020-07-20T11:31:20.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://navigation.wherelse.cc"/>
-    <link rel="self" href="https://navigation.wherelse.cc/atom.xml"/>
+    <link rel="alternate" href="https://icp.me/workgroup"/>
+    <link rel="self" href="https://icp.me/workgroup/atom.xml"/>
     <subtitle>Wherelse的导航站</subtitle>
     <logo>https://navigation.wherelse.cc/images/avatar.png</logo>
     <icon>https://navigation.wherelse.cc/favicon.ico</icon>
